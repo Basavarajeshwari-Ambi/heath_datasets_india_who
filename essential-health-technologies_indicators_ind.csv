@@ -1,0 +1,4 @@
+GHO (CODE),GHO (DISPLAY),GHO (URL),PUBLISHSTATE (CODE),PUBLISHSTATE (DISPLAY),PUBLISHSTATE (URL),YEAR (CODE),YEAR (DISPLAY),YEAR (URL),REGION (CODE),REGION (DISPLAY),REGION (URL),COUNTRY (CODE),STARTYEAR,ENDYEAR,COUNTRY (DISPLAY),COUNTRY (URL),Display Value,Numeric,Low,High,StdErr,StdDev,Comments
+#indicator+code,#indicator+name,#indicator+url,#status+code,#status+name,,,#date+year,,#region+code,#region+name,,#country+code,#date+year+start,#date+year+end,#country+name,,,#indicator+value+num,,,,,
+DEVICES14,Use of nomenclature system,https://www.who.int/data/gho/indicator-metadata-registry/imr-details/3017,PUBLISHED,Published,,2013,2013,,SEAR,South-East Asia,,IND,2013,2013,India,,No,,,,,,
+DEVICES13,Type of nomenclature system,https://www.who.int/data/gho/indicator-metadata-registry/imr-details/2995,PUBLISHED,Published,,2013,2013,,SEAR,South-East Asia,,IND,2013,2013,India,,None,,,,,,
